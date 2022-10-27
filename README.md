@@ -27,7 +27,7 @@ The package uses [Poetry](https://python-poetry.org/) as the primary dependency 
 $ git clone https://github.com/alec-kr/F1PyStats.git
 
 // Install dependecies using poetry
-$ cd ../F1PyStats
+$ cd ./F1PyStats
 $ poetry install --only main
 
 // Build the package if you would to use it in other projects (https://python-poetry.org/docs/cli/#build)
